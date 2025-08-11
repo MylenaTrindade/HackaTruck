@@ -7,3 +7,5 @@ O projeto teve duração de um mês e foi realizado utilizando a linguagem Swift
 Durante esse período, aprendi e pratiquei conceitos essenciais de programação para iOS, trabalhando em desafios reais e criando soluções visuais e funcionais.
 
 Foi uma experiência incrível, que uniu teoria e prática, ampliou minhas habilidades técnicas e reforçou minha paixão por tecnologia.
+
+![Minha imagem](image.jpeg)
